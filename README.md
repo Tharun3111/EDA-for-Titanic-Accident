@@ -18,7 +18,7 @@ The Titanic dataset consists of the following columns:
 - `Cabin`: Cabin number
 - `Embarked`: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
-## Objectives
+## Objectives   
 The main objectives of this exploratory data analysis are as follows:
 1. Understand the structure and contents of the dataset.
 2. Identify missing values and determine appropriate strategies for handling them.
