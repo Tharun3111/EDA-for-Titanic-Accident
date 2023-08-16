@@ -8,7 +8,7 @@ The Titanic dataset consists of the following columns:
 - `PassengerId`: Unique identifier for each passenger
 - `Survived`: Whether the passenger survived (0 = No, 1 = Yes)
 - `Pclass`: Passenger class (1 = 1st, 2 = 2nd, 3 = 3rd)
-- `Name`: Passenger's name
+- `Name`: Passenger's name   
 - `Sex`: Passenger's gender      
 - `Age`: Passenger's age in years
 - `SibSp`: Number of siblings/spouses aboard
