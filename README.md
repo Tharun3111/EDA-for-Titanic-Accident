@@ -15,7 +15,7 @@ The Titanic dataset consists of the following columns:
 - `Parch`: Number of parents/children aboard
 - `Ticket`: Ticket number
 - `Fare`: Fare paid for the ticket           
-- `Cabin`: Cabin number
+- `Cabin`: Cabin number. 
 - `Embarked`: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
 ## Objectives   
