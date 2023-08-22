@@ -1,7 +1,7 @@
 # Exploratory Data Analysis for Titanic Accident Dataset   
           
 ## Introduction    
-This README document provides guidance on conducting an Exploratory Data Analysis (EDA) on the Titanic accident dataset. The dataset contains information about passengers aboard the Titanic, including their demographics, cabin class, fare, survival status, and more.
+This README document provides guidance on conducting an Exploratory Data Analysis (EDA) on the Titanic accident dataset. The dataset contains information about passengers aboard the Titanic, including their demographics, cabin class, fare, survival status, and more.    
       
 ## Dataset Description          
 The Titanic dataset consists of the following columns:
