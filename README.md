@@ -17,7 +17,7 @@ The Titanic dataset consists of the following columns:
 - `Fare`: Fare paid for the ticket           
 - `Cabin`: Cabin number. 
 - `Embarked`: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
-  
+     
 ## Objectives      
 The main objectives of this exploratory data analysis are as follows:
 1. Understand the structure and contents of the dataset.
